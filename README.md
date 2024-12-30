@@ -13,15 +13,13 @@ Due to the large size of the original dataset, please refer to the corresponding
 The file paths might be somewhat disorganized. I will reorganize them once this busy period is over. Thank you for your understanding.
 ### 4
 Introduction to TXT Format（train0.txt, valid0.txt, test.txt）
-'''
-    data format:
-    length :0        # a special learner's interactions sequence
-    KC sequence :1   # knowledge concept
-    answer sequence :2
-    exercise sequence :3
-    it sequence :4     #
-    at sequence  :5    # if value is 0, it mean there is no that information in origin dataset
-'''
+**data format**:
+length :0        # a special learner's interactions sequence
+KC sequence :1   # knowledge concept
+answer sequence :2
+exercise sequence :3
+it sequence :4     #
+at sequence  :5    # if value is 0, it mean there is no that information in origin dataset
 
 
 
