@@ -3,6 +3,7 @@
 #### 1
 To prevent the leakage of core code, only a simplified framework code and two training and testing examples are provided here.
 Dataset information and more experimental data can contact software-2018_wyz@whut.edu.cn.
+Only the processed data from the Assistment2009 dataset is provided here.
 ### 2
 Due to the large size of the original dataset, please refer to the corresponding link for access.
 1. ASSIST2009: https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data/skill-builder-data-2009-2010
