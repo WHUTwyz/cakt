@@ -14,12 +14,12 @@ The file paths might be somewhat disorganized. I will reorganize them once this 
 ### 4
 Introduction to TXT Format（train0.txt, valid0.txt, test.txt）
 **data format**:
-length :0        # a special learner's interactions sequence. 
-KC sequence :1   # knowledge concept
-answer sequence :2
-exercise sequence :3
-it sequence :4     #
-at sequence  :5    # if value is 0, it mean there is no that information in origin dataset
+1. length :0        # a special learner's interactions sequence. 
+2. KC sequence :1   # knowledge concept
+3. answer sequence :2
+4. exercise sequence :3
+5. it sequence :4     #
+6. at sequence  :5    # if value is 0, it mean there is no that information in origin dataset
 
 
 
