@@ -14,7 +14,7 @@ The file paths might be somewhat disorganized. I will reorganize them once this 
 ### 4
 Introduction to TXT Format（train0.txt, valid0.txt, test.txt）
 **data format**:
-length :0        # a special learner's interactions sequence
+length :0        # a special learner's interactions sequence. 
 KC sequence :1   # knowledge concept
 answer sequence :2
 exercise sequence :3
